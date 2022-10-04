@@ -57,6 +57,7 @@ const main = async () => {
         httpOnly: true,
         sameSite: "lax",
         secure: __prod__,
+        domain: __prod__ ? ".herokuapp.com" : undefined,
       },
       saveUninitialized: false,
       secret: process.env.SESSION_SECRET,
