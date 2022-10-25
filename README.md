@@ -1,6 +1,6 @@
 # PostEz
 PostEz is a dynamic website created to either register new users or login existing users, who can create, update and delete their personal posts. They can also upvote or downvote other public posts.
-> This is a personal version of Fullstack project using React, GraphQl and TypeScript (Tutorial by Ben Awad).
+> This is a personal version of Fullstack project using React, GraphQl and TypeScript.
 
 
 > This project has not been deployed to production, but has been configured in such a way that it can be pushed to production.
